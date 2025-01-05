@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
 <head>
-    <title>Hackvely-like Website</title>
+    <title>Migt Shop Website</title>
     <style>
         body {
             font-family: Arial, sans-serif;
@@ -66,7 +66,7 @@
 </head>
 <body>
     <header>
-        <h1>Hackvely-like Website</h1>
+        <h1>Migt Shop Website</h1>
     </header>
     <nav>
         <a href="#home">Home</a>
@@ -105,7 +105,7 @@
         </section>
     </main>
     <footer>
-        &copy; 2025 Hackvely-like Website
+        &copy; 2025 Migt Shop Website
     </footer>
 </body>
 </html>
